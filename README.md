@@ -1,5 +1,4 @@
-
-#HEALTHCARE KPI’s & OUTCOMES REPORT 
+# HEALTHCARE KPI’s & OUTCOMES REPORT 
 ## Project Overview
 A Power BI report built for a healthcare system to deliver a data driven view of financial performance, clinical operations, patient demographics and revenue trends. Designed for Executive Insights, Operational Triage, and Clinical Program Management, the solution helps leaders act quickly on revenue shifts, capacity constraints, and high risk patient cohorts.
 ## Key Features
