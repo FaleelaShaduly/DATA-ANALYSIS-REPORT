@@ -28,7 +28,11 @@ A Power BI report built for a healthcare system to deliver a data driven view of
 -	Average billing per patient is constant regardless of length of stay. This is the most critical "synthetic" flag. In the real world, longer stays = higher bills. The zero correlation here is the strongest proof of a randomized dataset.
 -	The average billing per patient remains consistently around $25,000 across all years and months, indicating stable pricing. Consequently, revenue variations are driven mainly by patient volume and whether a given year contains records for all 12 months, as not all years have complete monthly data.
 -	While the dataset overall shows revenue in every calendar month (May 8, 2019 – June 6, 2024), individual hospitals have sparse and uneven records that prevent month–to–month trend analysis. Therefore, to accurately prevent monthly revenue trends, the data should be aggregated at all hospitals / medical condition level rather than at the individual hospital level.
-## Screenshots:
-
 -	The "Hospital" column is likely just a list of random names, making any hospital-specific strategy or benchmarking invalid.
+ ## Screenshots:
+  https://github.com/FaleelaShaduly/DATA-ANALYSIS-REPORT/blob/main/Snapshot%20of%20Healthcare%20KPI's%20%26%20Outcomes%201.png
+  https://github.com/FaleelaShaduly/DATA-ANALYSIS-REPORT/blob/main/Snapshot%20of%20Healthcare%20KPI's%20%26%20Outcomes%202.png
+  https://github.com/FaleelaShaduly/DATA-ANALYSIS-REPORT/blob/main/Snapshot%20of%20Healthcare%20KPI's%20%26%20Outcomes%203.png
+  https://github.com/FaleelaShaduly/DATA-ANALYSIS-REPORT/blob/main/Snapshot%20of%20Healthcare%20KPI's%20%26%20Outcomes%204.png
+
 
